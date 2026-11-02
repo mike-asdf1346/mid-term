@@ -4,7 +4,6 @@ top-section-bg-text: Information Management
 backgrounds:
   - static/assets/background/cycu-banger.jpg
   - static/assets/background/大草坪鐘塔.jpg
-  - static/assets/background/cycu-cover.jpg
 background-interval-ms: 7000
 background-overlay: 0.52
 copyright-text: '&copy; Mike Tsai 2026. All Rights Reserved.'
