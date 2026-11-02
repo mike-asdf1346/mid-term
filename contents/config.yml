@@ -1,22 +1,23 @@
-title: User Name's Homepage
-page-top-title: User Name
-top-section-bg-text: Computer Science
+title: 期中報告
+page-top-title: 資管一乙
+top-section-bg-text: Information Management
 backgrounds:
-  - static/assets/background/background_0.jpeg
-  - static/assets/background/background_1.jpeg
+  - static/assets/background/cycu-banger.jpg
+  - static/assets/background/大草坪鐘塔.jpg
+  - static/assets/background/cycu-cover.jpg
 background-interval-ms: 7000
 background-overlay: 0.52
-copyright-text: '&copy; Sen Li 2023-2026. All Rights Reserved.'
-github-link:
-  text: Github
-  href: https://github.com/senli1073
+copyright-text: '&copy; Mike Tsai 2026. All Rights Reserved.'
+# github-link:
+#   text: Github
+#   href: https://github.com/senli1073
 license-link:
   text: License
   href: https://github.com/senli1073/senli1073.github.io/blob/main/LICENSE
 sections:
   - id: home
     nav: HOME
-    title: User Name&ensp;|&ensp;姓名
+    title: User Name&ensp;|&ensp;蔡晉宸
     href: '#page-top' # Default to '#<id>' if not specified
   - id: publications
     nav: PUBLICATIONS
