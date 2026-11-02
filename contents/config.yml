@@ -1,6 +1,6 @@
 title: 期中報告
-page-top-title: 資管一乙
-top-section-bg-text: Information Management
+page-top-title: 主目錄
+top-section-bg-text: CYCU Information Management
 backgrounds:
   - static/assets/background/cycu-banger.jpg
   - static/assets/background/大草坪鐘塔.jpg
@@ -15,8 +15,8 @@ license-link:
   href: https://github.com/senli1073/senli1073.github.io/blob/main/LICENSE
 sections:
   - id: home
-    nav: HOME
-    title: User Name&ensp;|&ensp;蔡晉宸
+    nav: 家目錄
+    title: 資管一乙&ensp;|&ensp;蔡晉宸
     href: '#page-top' # Default to '#<id>' if not specified
   - id: publications
     nav: PUBLICATIONS
