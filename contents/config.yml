@@ -26,3 +26,6 @@ sections:
     nav: AWARDS
     title: AWARDS
     icon: bi-award-fill
+  - id: test
+    title: TEST
+    icon: bi-award-fill
