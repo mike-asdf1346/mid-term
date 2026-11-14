@@ -9,7 +9,7 @@
 }
 
 body {
-    background: #343752;
+    background: #ffffff;
 }
 
 .header {
@@ -61,7 +61,7 @@ body {
 }
 
 .skeleton-section-light {
-    background: linear-gradient(45deg, #1a1b26, #24283b);
+    background: linear-gradient(45deg, #f0f0f0, #f1f1f1);
 }
 
 .skeleton-section-gray {
