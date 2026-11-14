@@ -9,36 +9,31 @@ background-overlay: 0.52
 copyright-text: '&copy; Mike Tsai 2026. All Rights Reserved.'
 github-link:
   text: Github
-  href: https://github.com/senli1073
+  href: https://github.com/mike-asdf1346
 license-link:
   text: License
   href: https://github.com/senli1073/senli1073.github.io/blob/main/LICENSE
-sections: 
+sections: # 目錄連結
   - id: home 
     nav: 家目錄 
     title: 蔡晉宸 | 資管一乙
     href: '#page-top'
-    
   - id: education 
     nav: 修課與學歷 
     title: 修課與學歷 
     icon: bi-book-fill
-    
   - id: credits 
     nav: 學分規劃與進度 
     title: 學分規劃與進度 
     icon: bi-graph-up-arrow
-
   - id: programs 
     nav: 雲端與資安學程 
     title: 雲端與資安學程 
     icon: bi-shield-lock-fill
-
   - id: projects 
     nav: PROJECTS 
     title: 專案與作品集 
     icon: bi-code-slash
-    
   - id: contact 
     nav: 聯絡資訊 
     title: 聯絡資訊 
