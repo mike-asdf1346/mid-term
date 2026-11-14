@@ -15,44 +15,31 @@ license-link:
   href: https://github.com/senli1073/senli1073.github.io/blob/main/LICENSE
 sections: 
   - id: home 
-    nav: HOME 
-    title: 蔡晉宸 | Jin-Chen Tsai 
-    href: '#page-top' 
+    nav: 家目錄 
+    title: 蔡晉宸 | 資管一乙
+    href: '#page-top'
+    
   - id: education 
-    nav: EDUCATION 
+    nav: 修課與學歷 
     title: 修課與學歷 
-    icon: bi-book-fill 
+    icon: bi-book-fill
+    
   - id: credits 
-    nav: CREDIT PLAN 
+    nav: 學分規劃與進度 
     title: 學分規劃與進度 
-    icon: bi-graph-up-arrow 
+    icon: bi-graph-up-arrow
+
   - id: programs 
-    nav: PROGRAMS 
+    nav: 雲端與資安學程 
     title: 雲端與資安學程 
-    icon: bi-shield-lock-fill 
+    icon: bi-shield-lock-fill
+
   - id: projects 
     nav: PROJECTS 
     title: 專案與作品集 
-    icon: bi-code-slash 
+    icon: bi-code-slash
+    
   - id: contact 
-    nav: CONTACT 
+    nav: 聯絡資訊 
     title: 聯絡資訊 
     icon: bi-envelope-fill
-
-
-# sections:
-#   - id: home
-#     nav: 家目錄
-#     title: 資管一乙&ensp;|&ensp;蔡晉宸
-#     href: '#page-top' # Default to '#<id>' if not specified
-#   - id: publications
-#     nav: PUBLICATIONS
-#     title: PUBLICATIONS
-#     icon: bi-file-text-fill
-#   - id: awards
-#     nav: AWARDS
-#     title: AWARDS
-#     icon: bi-award-fill
-#   - id: test
-#     title: TEST
-#     icon: bi-award-fill
