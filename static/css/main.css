@@ -112,7 +112,7 @@ body {
 .site-loading .top-section {
     background:
         linear-gradient(90deg, rgba(255, 255, 255, 0.12), rgba(231, 235, 240, 0.16)),
-        linear-gradient(135deg, #edf0f3, #f8f9fb);
+        linear-gradient(135deg, #bad3ec, #f8f9fb);
 }
 
 .top-section h2 {
