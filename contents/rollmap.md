@@ -1,71 +1,111 @@
-# Rollmap
+# 學習計劃書
 
-規劃我在未來(包含現在)三年的學習計畫書。
+> **規劃期間：** 大學前三年（包含目前）
+>
+> **核心目標：** 建立扎實的程式設計能力、計算機基礎和網路基礎，逐步增進資訊安全能力，並培養獨立思考、規劃、實作、測試及製作專案的能力。
 
-## 1. 把程式語言的基礎打好
+---
 
-### Python 物件導向
-- 鑽研 Python 基礎語法與物件導向程式設計（OOP）
+## 1. 程式設計
 
+現階段優先加強程式設計基礎，尤其是從零開始分析問題、規劃程式架構及獨立完成專案的能力。
+
+### 現階段：Python OOP
+
+加深 Python 基礎語法與資料型態。   
+深入理解物件導向程式設計（OOP）。   
+熟悉 Function、Class、Object、Module。   
+理解 Encapsulation、Inheritance、Composition。   
+學習 Exception Handling   
+
+### 練習 & 實作
+
+使用 Python OOP 建立基本帳戶管理系統。
+
+- 建立 Account 與 Customer Class。
+- 實作帳戶建立與管理。
+- 實作存款、提款及餘額查詢。
+- 建立交易紀錄。
+- 處理錯誤輸入與例外狀況。
+
+## 2. 探索 Linux
+
+透過實際使用 Linux，理解作業系統的運作方式，並培養獨立排除問題的能力。
+
+### Arch
+
+- 理解 Linux 發行版與系統組成。
+- 熟悉 Arch Linux 安裝及基本設定。
+- 理解 Package Manager 與套件管理。
+- 學習閱讀錯誤訊息及查找技術文件。
+- 理解自己安裝的套件與系統服務。
+
+### Ubuntu
+
+- 加強 Ubuntu 系統管理與故障排除能力。
+- 熟悉 bash 語法。
+- 理解 File Permissions。
+- 學習 Process Management。
+- 學會去看 System Logs（像是 journalctl、syslog）。
+
+### 電腦
+
+- 理解作業系統基本概念。   
+- 接觸 C 語言。
+
+---
+
+## 3. 網路基礎
+
+建立完整的網路基礎，理解不同網路協定如何運作，以及資料如何在不同設備之間傳輸。
+
+### 學習
+
+- 理解三向交握 (SYN、SYN + ACK、ACK)
+- Port 與常見網路服務
+- 各式網路協定
+- Firewall 基本概念
 
 ### 練習
-  - 用 OOP 練習建立基本帳戶管理系統
-  - 實作存款、提款、交易
-<!--place practce here-->
+
+- 使用 Wireshark 擷取測試環境中的網路流量。
+- 分析 TCP Three-Way Handshake。
+- 觀察 DNS 查詢流程。
+- 整理封包分析紀錄。
 
 ---
 
-## 2. 探索 Linux 
-### Arch
-- 了解自己在裝什麼，並且遇到問題要會排除
-### Ubuntu
-- 加強自己排除故障的能力 
-- 練習 bash 語法
-- 要會去讀 System Log
-- 
-- 
-### Networking
-- 學習網路概論
-- 三次交握
-- DNS、HTTP / HTTPS
-- TLS / SSL
-- Wireshark 封包分析
-- Nmap 網路掃描
+## 4. 正式踏入 CTF
 
----
-
-## 🛡️ 3. Cybersecurity Labs & CTF
-
-### Web Security
-- OWASP Top 10
-- SQL Injection
-- Cross-Site Scripting (XSS)
-- Cross-Site Request Forgery (CSRF)
-
-### Security Fundamentals
-- Cryptography
-- Authentication & Authorization
-- Network Security
-- Vulnerability Analysis
+在具備程式設計、Linux 與網路基礎後，逐步接觸資訊安全領域，透過合法授權的實驗環境與 CTF 練習實際技術。
 
 ### CTF & Writeups
-- CTF Challenge Solutions
-- Web Security Labs
-- Linux / Network Security Experiments
-- 解題紀錄與技術文件
+
+每次完成題目後，盡可能記錄：
+
+- 題目背景與目標。
+- 解題思路。
+- 使用的工具與技術。
+- 遇到的問題。
+- 解法與原理。
 
 ---
 
-## 🚀 4. Future Capstone Project
+## 5. 探索不同領域
 
-### Enterprise Cybersecurity Defense Platform
+因為只說要學資安太籠統了，而且範圍又廣，所以我不打算急著決定最終方向。
 
-**目標方向：**
-結合雲端架構防護與資安事件監控系統（SIEM），
-建立企業資訊安全防禦平台。
+預計在具備基本的程式設計基礎、Linux 相關知識、電腦底層和網路基礎後踏入 CTF
+並慢慢找出自己最有興趣且適合長期深入研究的方向。
 
-**預計研究方向：**
-目前還沒確定為來要往資安的哪一個方面走，資安有很多路，所以我目前打算先把最基本的
+---
 
-**預期成果：**
-建立具備日誌收集、異常偵測與事件監控功能的原型系統。
+## 6. Final Goals
+
+我希望未來我能：
+
+1. 寫一份自己的小專案。
+2. 理解電腦作業系統、網路、linux 與。
+3. 擁有自我解決問題的能力
+4. 用 GitHub 展示自己實際做出來的作品。
+5. 多參加校外活動
