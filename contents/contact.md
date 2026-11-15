@@ -1,4 +1,3 @@
-## 相關資料：
 - [資訊管理學系](https://im.cycu.edu.tw/%E8%AA%B2%E7%A8%8B%E8%B3%87%E8%A8%8A/%E5%A4%A7%E5%AD%B8%E9%83%A8/)
 
 - [中原大學資通安全跨領域學分學程計畫書](https://acdm.cycu.edu.tw/H2000/field_study/class/information_security.htm)
