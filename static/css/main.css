@@ -177,29 +177,30 @@ section header h2 {
 }
 
 section .main-body {
-    font-size: 1.3rem;
-    font-weight: 500;
-    line-height: 2.4rem;
-    color: #8894cf;
+    font-size: 1.5rem;
+    font-weight: 900;
+    line-height: 2.3rem;
+    color: #b1bdf7;
     text-align: justify;
 }
 
 /* Content column: 80% of the viewport on large screens (10% whitespace
    each side), capped at 1200px for readability on very wide screens.
    Bootstrap's own caps are 960/1140/1320px at lg/xl/xxl. */
-@media (min-width: 992px) {
+@media (min-width: 692px) {
     .container {
-        max-width: min(1150px, 80vw);
+        max-width: min(900px, 80vw);
+        margin-inline: auto;
     }
 }
 
 /* main bg: first and second section */
 .bg-gradient-primary-to-secondary-light {
-    background: linear-gradient(90deg, #20242c, #353948) !important;
+    background: linear-gradient(90deg, #000325, #391111) !important;
 }
 
 .bg-gradient-primary-to-secondary-gray {
-    background: linear-gradient(90deg, #2f3440, #464b55) !important;
+    background: linear-gradient(90deg, #090a3f, #310f0f) !important;
 }
 
 
