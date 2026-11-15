@@ -2,7 +2,7 @@
 
 
 :root {
-    --h-title-color: #7698ee;
+    --h-title-color: #26263b;
     --top-section-overlay: 0.52;
     --skeleton-base: #7698ee;
     --skeleton-highlight: #7698ee;
@@ -171,8 +171,8 @@ body {
 
 section header h2 {
     font-family: "Kanit", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
-    color: var(--h-title-color);
-    font-size: 2.3rem;
+    color: #ff9558;
+    font-size: 2.8rem;
     line-height: 4rem;
 }
 
