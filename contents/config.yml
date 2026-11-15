@@ -1,12 +1,12 @@
 title: 期中報告
-page-top-title: 主目錄
+page-top-title: 目錄
 top-section-bg-text: CYCU Information Management
 backgrounds:
   - static/assets/background/cycu-banger.jpg
   - static/assets/background/大草坪鐘塔.jpg
 background-interval-ms: 7000
 background-overlay: 0.52
-copyright-text: '&copy; Mike Tsai 2026. All Rights Reserved.'
+copyright-text: '&copy; Mike Tsai 2026 © All Rights Reserved.'
 github-link:
   text: Github
   href: https://github.com/mike-asdf1346
@@ -19,20 +19,20 @@ sections: # 目錄連結
     title: 蔡晉宸 | 資管一乙
     href: '#page-top'
   - id: education 
-    nav: 修課與學歷 
-    title: 修課與學歷 
+    nav: 目前修課狀態 
+    title: 目前修課狀態 
     icon: bi-book-fill
   - id: credits 
     nav: 學分規劃與進度 
     title: 學分規劃與進度 
     icon: bi-graph-up-arrow
   - id: programs 
-    nav: 雲端與資安學程 
-    title: 雲端與資安學程 
+    nav: 跨領域學分學程規劃
+    title: 跨領域學分學程規劃 
     icon: bi-shield-lock-fill
   - id: rollmap 
-    nav: 計畫表 
-    title: 計畫表 
+    nav: 對未來大學三年的計畫 
+    title: 對未來大學三年的計畫 
     icon: bi-code-slash
   - id: contact 
     nav: 聯絡資訊 
