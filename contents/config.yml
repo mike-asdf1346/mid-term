@@ -38,4 +38,4 @@ sections: # 目錄連結
     nav: 聯絡資訊 
     title: 聯絡資訊 
     icon: bi-envelope-fill
-  remote_theme: pages-themes/time-machine@v0.2.0
+  #remote_theme: pages-themes/time-machine@v0.2.0
