@@ -180,7 +180,7 @@ section .main-body {
     font-size: 1.3rem;
     font-weight: 500;
     line-height: 2.4rem;
-    color: #c4ccf6;
+    color: #8894cf;
     text-align: justify;
 }
 
@@ -193,7 +193,7 @@ section .main-body {
     }
 }
 
-
+/* main bg: first and second section */
 .bg-gradient-primary-to-secondary-light {
     background: linear-gradient(90deg, #20242c, #353948) !important;
 }
