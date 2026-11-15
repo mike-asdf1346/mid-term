@@ -75,7 +75,7 @@
   --bs-border-radius-pill: 50rem;
   --bs-link-color: #2937f0;
   --bs-link-hover-color: #212cc0;
-  --bs-code-color: #d63384;
+  --bs-code-color: #ee2f8f;
   --bs-highlight-bg: #fff3cd;
 }
 
@@ -280,7 +280,7 @@ pre code {
 }
 
 code {
-  font-size: 0.875em;
+  font-size: 1em;
   color: var(--bs-code-color);
   word-wrap: break-word;
 }
