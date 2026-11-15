@@ -63,7 +63,7 @@
   --bs-body-line-height: 1.5;
   --bs-body-color: #212529;
   --bs-body-bg: #fff;
-  --bs-border-width: 1px;
+  --bs-border-width: 2.6px;
   --bs-border-style: solid;
   --bs-border-color: #dee2e6;
   --bs-border-color-translucent: rgba(0, 0, 0, 0.175);
@@ -3832,7 +3832,7 @@ textarea.form-control-lg {
   line-height: 1;
   color: var(--bs-navbar-color);
   background-color: transparent;
-  border: var(--bs-border-width) solid var(--bs-navbar-toggler-border-color);
+  border: var(--bs-border-width) solid rgb(255 255 255)/*var(--bs-navbar-toggler-border-color)*/;
   border-radius: var(--bs-navbar-toggler-border-radius);
   transition: var(--bs-navbar-toggler-transition);
 }
@@ -10855,8 +10855,8 @@ html {
 
 aside,
 section {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 2rem;
+  padding-bottom: 3rem;
 }
 
 .app-badge {
@@ -10864,8 +10864,8 @@ section {
 }
 
 #mainNav {
-  padding-top: 0.3rem;
-  padding-bottom: 0.1rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.4rem;
   background-color: #669bed;
 }
 #mainNav .navbar-brand {
