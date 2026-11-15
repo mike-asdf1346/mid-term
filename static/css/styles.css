@@ -10940,29 +10940,3 @@ tbody tr:last-child td {
   border-top: 1px solid #f1f1f1;
   background: #181441;
 }
-
-/* 滑鼠渲染------------------------------------ */
-.cursor-glow {
-  position: fixed;
-  inset: 0;
-  z-index: 9999;
-  pointer-events: none; /* 不能擋住 */
-  opacity: 0;
-  transition: opacity 0.3s ease;
-  background: radial-gradient(
-    circle 250px at var(--x, 50%) var(--y, 50%),
-    rgba(80, 140, 255, 0.15),
-    transparent 70%
-  );
-}
-
-.cursor-glow.active {
-  opacity: 1;
-}
-
-/* 手機沒有滑鼠，直接關掉 */
-@media (hover: none) {
-  .cursor-glow {
-    display: none;
-  }
-}
