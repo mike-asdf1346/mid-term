@@ -35,7 +35,7 @@ sections: # 目錄連結
     title: 未來三年的計畫 
     icon: bi-code-slash
   - id: contact 
-    nav: 資料 
-    title: 資料 
+    nav: 學校資料 
+    title: 學校資料 
     icon: bi-envelope-fill
   #remote_theme: pages-themes/time-machine@v0.2.0
