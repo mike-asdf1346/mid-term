@@ -37,26 +37,3 @@ assert.equal(context.chooseInitialBackgroundIndex(1), 0, 'single background shou
 assert.equal(context.chooseInitialBackgroundIndex(0), 0, 'empty background list should fall back to index 0');
 
 console.log('background selection checks passed');
-
-// test cursor glow-------------------------------------
-const glow = document.querySelector('.cursor-glow');
-let x = 0, y = 0, ticking = false;
-
-document.addEventListener('mousemove', (e) => {
-  x = e.clientX;
-  y = e.clientY;
-  glow.classList.add('active');
-
-  if (!ticking) {
-    requestAnimationFrame(() => {
-      glow.style.setProperty('--x', x + 'px');
-      glow.style.setProperty('--y', y + 'px');
-      ticking = false;
-    });
-    ticking = true;
-  }
-});
-
-document.addEventListener('mouseleave', () => {
-  glow.classList.remove('active');
-});
