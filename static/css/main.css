@@ -13,7 +13,7 @@ body {
 }
 
 .header {
-    border-bottom: solid 2px var(--bs-blue);
+    border-bottom: solid 5px #b2c5ff;
     z-index: 10000;
 }
 
