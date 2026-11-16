@@ -16,26 +16,26 @@ license-link:
 sections: # 目錄連結
   - id: home 
     nav: 家目錄 
-    title: 蔡晉宸 | 資管一乙
+    title: 大學入門期中報告
     href: '#page-top'
   - id: education 
     nav: 修課狀態 
     title: 修課狀態 
-    icon: bi-book-fill
+    #icon: bi-book-fill
   - id: credits 
     nav: 學分規劃 
     title: 學分規劃 
-    icon: bi-graph-up-arrow
+    #icon: bi-graph-up-arrow
   - id: programs 
     nav: 跨領域學程規劃
     title: 跨領域學程規劃 
-    icon: bi-shield-lock-fill
+    #icon: bi-shield-lock-fill
   - id: rollmap 
     nav: 未來三年的計畫 
     title: 未來三年的計畫 
-    icon: bi-code-slash
+    #icon: bi-code-slash
   - id: contact 
     nav: 資料 
-    title: 資料 
-    icon: bi-envelope-fill
+    title: -- 資料 -- 
+    #icon: bi-envelope-fill
   #remote_theme: pages-themes/time-machine@v0.2.0
