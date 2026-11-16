@@ -10876,8 +10876,9 @@ section {
 }
 #mainNav .navbar-toggler {
   font-size: 0.875rem;
-  padding: 0.75rem 1rem;
-  color: #212529;
+  font-weight: 800;
+  padding: 0.75rem 2rem;
+  color: #ffffff;
 }
 #mainNav .navbar-nav .nav-item .nav-link {
   font-weight: 600;
@@ -10909,7 +10910,7 @@ footer a:hover, footer a:active, footer a:focus {
   text-decoration: underline;
 }
 
-/* TABLE */
+/* table configuration here */
 table {
   width: 100%;
   border-collapse: collapse;
