@@ -13,9 +13,9 @@
 [![Screenshot of the Website](https://raw.githubusercontent.com/senli1073/academic-homepage-template/main/screenshot_full.png)](https://senli1073.github.io/)
 
 ## ⚠️ 注意事項
-如要使用，請：   
-不要完全抄襲我的設計風格。   
-不要引用、盜用或未經許可使用我個人的照片。   
+**如要使用，請遵守以下規範：   **
+不要完全模仿我的設計風格。   
+不允許引用、盜用或未經許可使用文章內我的個人照片。   
 其餘網站架構皆可自由使用。   
 網站模板提供：Sen Li
 ## Introduction
