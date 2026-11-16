@@ -5,18 +5,18 @@
 ![License](https://img.shields.io/github/license/senli1073/academic-homepage-template)
 ![Last Commit](https://img.shields.io/github/last-commit/senli1073/academic-homepage-template)
 
-# 大學入門期中報告
+# 📚 資管一乙 蔡晉宸 大學入門期中報告
 
 利用 guthub pages 製作個人期中報告。
 
-## Preview
-網站原型：
+## 網站原型：
 [![Screenshot of the Website](https://raw.githubusercontent.com/senli1073/academic-homepage-template/main/screenshot_full.png)](https://senli1073.github.io/)
 
-## 注意事項
-請不要完全抄襲設計風格。   
-請不要引用、盜用或未經許可使用我個人的照片。   
-其餘網站架構皆可自由使用。   
+## ⚠️ 注意事項
+如要使用，請：   
+不要完全抄襲我的設計風格。   
+不要引用、盜用或未經許可使用我個人的照片。   
+其餘網站架構皆可自由使用(fork,。   
 網站模板提供：Sen Li
 ## Introduction
 
