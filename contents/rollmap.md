@@ -79,7 +79,7 @@
 - 理解 Linux 發行版與系統組成
 - Arch Linux 安裝及基本設定
 - 透過安裝 Arch Linux 學習作業系統的組成（不包含 Arch install)
-- 學習錯誤排除及查找官方文件（如官方網站：[Archlinux](archlinux.org)）
+- 學習錯誤排除及查找官方文件（如官方網站：[Archlinux]([archlinux.org](https://archlinux.org/))）
 
 ### OverTheWire（Bandit）
 學習目的：
