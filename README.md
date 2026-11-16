@@ -10,12 +10,13 @@
 利用 guthub pages 製作個人期中報告。
 
 ## Preview
-模板原型：
+網站原型：
 [![Screenshot of the Website](https://raw.githubusercontent.com/senli1073/academic-homepage-template/main/screenshot_full.png)](https://senli1073.github.io/)
 
 ## 注意事項
-請不要完全抄襲設計風格或盜用我個人的照片。   
-網站架構皆可使用。   
+請不要完全抄襲設計風格。   
+請不要引用、盜用或未經許可使用我個人的照片。   
+其餘網站架構皆可自由使用。   
 網站模板提供：Sen Li
 ## Introduction
 
