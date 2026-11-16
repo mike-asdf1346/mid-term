@@ -6,5 +6,7 @@
 
 - [中原大學資訊管理學系學士班修業辦法](https://acadm.cycu.edu.tw/wp-content/uploads/110-%E8%B3%87%E8%A8%8A%E7%AE%A1%E7%90%86%E5%AD%B8%E7%B3%BB%E5%AD%B8%E5%A3%AB%E7%8F%AD.pdf)
 
+- [中原大學學則](https://oosa.cycu.edu.tw/wp-content/uploads/109_35.pdf)
+
 - 還有一些我現在的修課紀錄、學分剩餘等等。
 
