@@ -5,19 +5,18 @@
 ![License](https://img.shields.io/github/license/senli1073/academic-homepage-template)
 ![Last Commit](https://img.shields.io/github/last-commit/senli1073/academic-homepage-template)
 
-# A simple Github Pages template for personal academic websites.
+# 大學入門期中報告
 
-> ⚠️ SECURITY NOTICE (2026-06)
-> 
-> Older versions of this template include a polyfill.io dependency
-> which may cause malicious popups.
->
-> Please update to the latest version immediately.
+利用 guthub pages 製作個人期中報告。
 
 ## Preview
+模板原型：
 [![Screenshot of the Website](https://raw.githubusercontent.com/senli1073/academic-homepage-template/main/screenshot_full.png)](https://senli1073.github.io/)
 
-
+## 注意事項
+請不要完全抄襲設計風格或盜用我個人的照片。   
+網站架構皆可使用。   
+網站模板提供：Sen Li
 ## Introduction
 
 This personal academic website template is based on [startbootstrap](https://github.com/StartBootstrap/startbootstrap-new-age).
