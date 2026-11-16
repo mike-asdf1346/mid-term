@@ -334,7 +334,7 @@ td,
 th {
   border-color: inherit;
   border-style: solid;
-  border-width: 0;
+  border-width: 1;
 }
 
 label {
@@ -10920,22 +10920,22 @@ table {
 th, td {
   padding: 0.75rem 1rem;
   border-bottom: 1px solid #bfdeff;
-  text-align: left;
+  text-align: center;
 }
 
 thead th {
   background: #181441;
   border-bottom: 2px solid #181441;
-  text-align: left;
+  text-align: center;
 }
 
-/* 學分欄靠右 */
+
 td:last-child, th:last-child {
-  text-align: right;
+  text-align: center;
   white-space: nowrap;
 }
 
-/* 小計上邊線  */
+
 tbody tr:last-child td {
   border-top: 1px solid #f1f1f1;
   background: #181441;
