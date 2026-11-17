@@ -42,14 +42,14 @@
 以下是我認為我現階段應該加強跟學習的目標
 
 ### Ubuntu（現在～大一寒）
-學習方向：
+學習目的：
 - 熟悉 shell 指令
 - 遇到系統問題多去看 System Logs（例如 journalctl、syslog）
 - 加強系統管理與問題排除能力
 
 ### Arch（大一寒～大一下）
-裝 Arch 蠻有趣的，可以學到蠻多像是有關 Linux 系統是怎麼建構的。
-學習方向：
+裝 Arch 蠻有趣的，可以學到蠻多像是有關 Linux 系統是怎麼建構的。   
+學習目的：
 - 理解 Linux 發行版與系統組成
 - Arch Linux 安裝及基本設定
 - 透過安裝 Arch Linux 學習作業系統的組成（不包含 Arch install)
