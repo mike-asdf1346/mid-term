@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/github/license/senli1073/academic-homepage-template)
 ![Last Commit](https://img.shields.io/github/last-commit/senli1073/academic-homepage-template)
 
-# 📚 資管一乙 蔡晉宸 大學入門期中報告
+# 📚 大學入門期中報告
 
 利用 guthub pages 製作個人期中報告。
 
