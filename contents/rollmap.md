@@ -52,8 +52,8 @@
 學習目的：
 - 理解 Linux 發行版與系統組成
 - Arch Linux 安裝及基本設定
-- 透過安裝 Arch Linux 學習作業系統的組成（不包含 Arch install)
-- 學習錯誤排除及查找官方文件（如官方網站：[archlinux.org](https://archlinux.org/)）
+- 透過安裝 Arch Linux 學習作業系統的組成（不包含 Arch install
+- 學習錯誤排除及查找官方文件 ( 如官方網站：[archlinux.org](https://archlinux.org/) )
 
 ### OverTheWire（Bandit）（大一下）
 這個是用來練習一些基礎 Linux 指令的網站，包括怎麼使用 ssh 連線、nc、改變權限 chmod 等等。
