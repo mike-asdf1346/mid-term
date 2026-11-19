@@ -9,7 +9,7 @@
 不要完全模仿我的設計風格。   
 不允許引用、盜用或未經許可使用文章內我的個人照片。   
 其餘網站架構皆可自由使用。   
-網站模板提供：Sen Li
+網站模板提供：[Sen Li](https://github.com/senli1073/academic-homepage-template)
 
 ## License
 
