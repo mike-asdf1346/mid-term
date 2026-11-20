@@ -26,13 +26,16 @@ sections: # 目錄連結
     nav: 學分規劃 
     title: 學分規劃 
     #icon: bi-graph-up-arrow
+  - id: plan 
+    nav: 大學課程規劃
+    title: 大學課程規劃 
   - id: programs 
     nav: 跨領域學程規劃
     title: 跨領域學程規劃 
     #icon: bi-shield-lock-fill
   - id: rollmap 
-    nav: 未來三年的計畫 
-    title: 未來三年的計畫 
+    nav: 第二專長規劃 
+    title: 第二專長規劃 
     #icon: bi-code-slash
   - id: contact 
     nav: 資料 

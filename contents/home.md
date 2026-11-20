@@ -1,15 +1,16 @@
-![cover-img ^](https://mike-asdf1346.github.io/mid-term/static/assets/img/my-doggy.jpg)
+![cover-img ^](https://mike-asdf1346.github.io/mid-term/static/assets/img/my-doggy.jpg)  
+# `報告大綱`
+- to be updated
+
 # `關於我`
 大家好我叫蔡晉宸，目前就讀於中原大學資訊管理學系。   
 我的系級：資管一乙   
-目前鑽研：資訊安全與網頁開發   
+目前鑽研：資訊安全、網頁開發、Linux 系統   
 未來期望：結合資管專業的商業基礎向外發展。     
 網頁託管平台：Github Pages   
 
 # `我的關注領域`
 主要是想往資安方面發展，並結合資管系的商業背景在未來三年 focus 在資訊安全、網頁開發等相關領域。同時透過跨領域學分學程與校外活動補強基礎。不過現階段還是先把基礎知識和課業學扎實為優先。   
-
-# `報告內容`
 
 
 # `ToC`
