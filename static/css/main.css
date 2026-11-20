@@ -3,7 +3,7 @@
 
 :root {
     --h-title-color: #26263b;
-    --top-section-overlay: 0.52;
+    --top-section-overlay: 0.42;
     --skeleton-base: #7698ee;
     --skeleton-highlight: #7698ee;
 }
@@ -13,7 +13,7 @@ body {
 }
 
 .header {
-    border-bottom: solid 5px #b2c5ff;
+    border-bottom: solid 5px #aec1f8;
     z-index: 10000;
 }
 
@@ -116,7 +116,7 @@ body {
 }
 
 .top-section h2 {
-    font-weight: 400;
+    font-weight: 500;
 }
 
 .top-section .top-section-content {
@@ -149,7 +149,7 @@ body {
     height: 100%;
     z-index: 1;
     background:
-        linear-gradient(90deg, rgba(0, 0, 0, calc(var(--top-section-overlay) + 0.12)), rgba(0, 0, 0, var(--top-section-overlay))),
+        linear-gradient(90deg, rgba(0, 0, 0, calc(var(--top-section-overlay) + 0.12)), rgba(0, 0, 0, 0.2)),
         linear-gradient(180deg, rgba(0, 0, 0, 0.18), rgba(0, 0, 0, 0.36));
 }
 
@@ -171,9 +171,10 @@ body {
 
 section header h2 {
     font-family: "Kanit", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
-    color: #ff9558;
-    font-size: 2.8rem;
-    line-height: 6.8rem;
+    color: #ff8a46;
+    font-size: 3.8rem;
+    padding-bottom: 30px;
+    line-height: 10.8rem;
     text-align: center;
 }
 
@@ -188,9 +189,9 @@ section .main-body {
 /* Content column: 80% of the viewport on large screens (10% whitespace
    each side), capped at 1200px for readability on very wide screens.
    Bootstrap's own caps are 960/1140/1320px at lg/xl/xxl. */
-@media (min-width: 692px) {
+@media (min-width: 960px) {
     .container {
-        max-width: min(900px, 80vw);
+        max-width: min(900px, 80vw)!important;
         margin-inline: auto;
     }
 }
@@ -265,3 +266,39 @@ section .main-body {
         animation: none;
     }
 }
+
+/* image adjustment */
+img[alt$="<"] {
+    float: left;
+}
+
+img[alt$="><"] {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+    float: none!important;
+}
+
+/* this is for img :P */
+img[alt$='^'] {
+    float: none;
+    display: block;
+    box-sizing: border-box;
+    width: 100%;
+    height: 350px;
+    margin-top: -5%;
+    padding: 5px;
+    border: 3px solid #4d5f7acc;
+    border-radius: 4px;
+
+    object-fit: cover;
+    object-position: 50% 20%;
+}
+
+img[alt$='center'] {
+    width: 100%;
+    height: 100%;
+    object-fit: scale-down;
+}
+
