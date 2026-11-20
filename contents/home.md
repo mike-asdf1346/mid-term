@@ -1,4 +1,4 @@
-![cover-img ^](static/assets/img/my-doggy.jpg)
+![cover-img ^](https://mike-asdf1346.github.io/mid-term/static/assets/img/my-doggy.jpg)
 # `關於我`
 大家好我叫蔡晉宸，目前就讀於中原大學資訊管理學系。   
 我的系級：資管一乙   
