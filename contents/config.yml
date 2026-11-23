@@ -15,7 +15,7 @@ license-link:
   href: https://github.com/senli1073/senli1073.github.io/blob/main/LICENSE
 sections: # 目錄連結
   - id: home 
-    nav: 家目錄 
+    nav: 首頁 
     title: 大學入門期中報告
     href: '#page-top'
   - id: education 
