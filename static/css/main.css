@@ -278,7 +278,7 @@ img[alt$="><"] {
     height: auto;
     margin: auto;
     float: none!important;
-    border: 3px solid #4d5f7acc;
+    border: 3px solid #4d5f7acc!important;
     border-radius: 4px;
     padding: 5px;
 }
