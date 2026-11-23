@@ -1,4 +1,4 @@
-![cover-img ^](https://mike-asdf1346.github.io/mid-term/static/assets/img/my-doggy.jpg)  
+![cover-img ^](https://mike-asdf1346.github.io/mid-term/static/assets/img/IMG_5025.jpg)  
 # `報告大綱`
 - to be updated
 
