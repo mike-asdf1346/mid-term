@@ -41,7 +41,6 @@
 ### Ubuntu（現在～大一寒假）
 學習目的：
 - 熟悉 shell script
-- 遇到系統問題時，多主動去查看 System Logs（例如 journalctl、/var/log/syslog）
 - 加強系統管理與問題排除能力
 
 ### Arch（大一寒～大一下）
@@ -49,7 +48,7 @@
 學習目的：
 - 理解 Linux 發行版與系統組成
 - Arch Linux 安裝及基本設定
-- 透過手動安裝與設定，認識 Linux 系統的組成、啟動流程及基本運作方式（不使用 archinstall 安裝腳本）
+- 透過手動安裝與設定，認識 Linux 系統的組成、啟動流程及基本運作方式（非 archinstall 安裝腳本）
 - 學習錯誤排除及查閱官方文件 ( 如官方網站：[archlinux.org](https://archlinux.org/) )
 
 ### OverTheWire（Bandit）（大一下）
