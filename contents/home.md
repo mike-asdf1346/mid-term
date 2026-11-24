@@ -1,7 +1,7 @@
 ![cover-img ^](https://mike-asdf1346.github.io/mid-term/static/assets/img/IMG_5025.jpg)  
 # `報告大綱`
-- 主旨：規劃自身大學學分畢業門檻、未來課程規劃、學涯進路   
-- 報告方式：網頁託管平台 Github Pages   
+主旨：規劃自身大學學分畢業門檻、未來課程規劃、學涯進路     
+報告方式：網頁託管平台 Github Pages   
 
 # `關於我`
 大家好我叫蔡晉宸，目前就讀於中原大學資訊管理學系。   
