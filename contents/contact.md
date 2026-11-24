@@ -16,5 +16,7 @@
 
 - [學生會｜體育課學分數調整](https://www.instagram.com/p/Dc3yX5lNbHT/?utm_source=ig_web_copy_link&fqnt=NTc4MTIwNjQ2YQ==)
 
+- [資管系職涯進路](https://im.cycu.edu.tw/%E8%B3%87%E7%AE%A1%E7%B3%BB%E8%81%B7%E6%B6%AF%E9%80%B2%E8%B7%AF/)
+
 - 還有一些我現在的修課紀錄、學分剩餘等等。
 

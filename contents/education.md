@@ -27,13 +27,10 @@
 | 大一體育 | 0 |
 | `小計` | `2` |   
    
-體育自 115-1 學期有調整 ( 引用自[`中原大學學生會 CYSA`](https://www.instagram.com/p/Dc3yX5lNbHT/?utm_source=ig_web_copy_link&fqnt=NTc4MTIwNjQ2YQ==) ) ：   
+體育自 115-1 學期有調整 ( 引用自[`中原大學學生會 CYSA`](https://www.instagram.com/p/Dc3yX5lNbHT/?utm_source=ig_web_copy_link&fqnt=NTc4MTIwNjQ2YQ==) )    
 教務會議修訂條文   
-修正「中原大學學則」   
-修正第十九條：體育為學士班必修科目，須修足4次方得畢業，115學年度起每週授課二小時給予1學分，但不計入畢業學分。   
-重修或補修體育，每學期以加修一門為限，但應屆畢業生不在此限。   
+修正第十九條：體育為學士班必修科目，須修足4次方得畢業，115學年度起每週授課二小時給予1學分，但不計入畢業學分。重修或補修體育，每學期以加修一門為限，但應屆畢業生不在此限。   
    
-
 ![體育課學分數調整 ><](https://mike-asdf1346.github.io/mid-term/static/assets/img/cycusa.png)
 
 ## `三、通識基礎必修（4 學分）`
