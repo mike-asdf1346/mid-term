@@ -12,6 +12,6 @@
 
 ## License
 
-Copyright Mike Tsai, 2026. Licensed under an MIT license.
+Copyright Mike Tsai, 2026. Licensed under an MIT license.   
 template: [Sen Li](https://github.com/senli1073/academic-homepage-template)
 
