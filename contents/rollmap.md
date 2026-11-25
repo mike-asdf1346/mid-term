@@ -80,7 +80,7 @@
 ## `四、網路基礎（大一下～大二上）`
 
 建立完整的網路基礎，而不是只理解表面就好。希望自己能真正理解不同網路協定的運作方式。   
-
+![三交握](/static/assets/img/handshake.png)
 ### 目標學習
 
 - 三向交握（Three-Way Handshake：SYN、SYN + ACK、ACK）
