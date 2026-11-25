@@ -34,7 +34,7 @@
 
 
 ## `二、深入 Linux（現在～大一寒）`
-![icon ><](/static/assets/img/linux-icon.jpeg)   
+![icon ><](https://mike-asdf1346.github.io/mid-term/static/assets/img/linux-icon.jpeg)   
 
 安裝不同的 Linux 發行版（Linux Distros），實際操作理解 Linux 系統的組成與運作方式，並培養獨立排除問題的能力。   
 以下是我認為現階段應該加強跟未來學習的目標。
@@ -66,7 +66,7 @@
 ## `三、C 語言與電腦底層（現在～大二上）`
 
 ### C 語言（現在～大一寒）
-![c-lang ><](/static/assets/img/c-lang.png)
+![c-lang ><](https://mike-asdf1346.github.io/mid-term/static/assets/img/c-lang.png)
 - C 語言基礎語法
 - 理解記憶體與指標等基本概念
 
@@ -81,7 +81,7 @@
 ## `四、網路基礎（大一下～大二上）`
 
 建立完整的網路基礎，而不是只理解表面就好。希望自己能真正理解不同網路協定的運作方式。   
-![三交握 ><](/static/assets/img/handshake.png)
+![三交握 ><](https://mike-asdf1346.github.io/mid-term/static/assets/img/handshake.png)
 ### 目標學習
 
 - 三向交握（Three-Way Handshake：SYN、SYN + ACK、ACK）
@@ -95,7 +95,7 @@
 
 
 ## `五、CTF 與 Writeups（大一暑～大二下）`
-![ctf-image ><](/static/assets/img/flag-example.png)   
+![ctf-image ><](https://mike-asdf1346.github.io/mid-term/static/assets/img/flag-example.png)   
 
 打一點 CTF 跟撰寫一些心得或 Writeup。   
 然後每次完成題目後，盡量記錄過程：
